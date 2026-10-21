@@ -129,7 +129,7 @@ export const ProfileView: React.FC = () => {
   };
 
   const handleExportData = () => {
-    window.open(api.getExportUrl(), '_blank');
+    api.downloadClientExport();
   };
 
   return (
