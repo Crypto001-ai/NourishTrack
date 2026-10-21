@@ -382,7 +382,7 @@ export const LandingPage: React.FC = () => {
               <Sparkles className="w-5 h-5 text-amber-400" />
               <h3 className="font-bold text-sm text-white">Respectful AI Explanation</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
-                Gemini 3.8 Flash is used exclusively to explain nutritional findings in warm,
+                Gemma (gemma-4-31b-it) is used exclusively to explain nutritional findings in warm,
                 supportive, everyday language — never to fabricate nutrient values.
               </p>
             </div>

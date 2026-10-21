@@ -245,7 +245,7 @@ export const NutritionInsightsView: React.FC = () => {
                 Supportive AI Nutrition Summary
               </h2>
               <span className="text-[11px] text-stone-500">
-                Powered by server-side Gemini 3.8 Flash for clear, conversational insights
+                Powered by server-side Gemma (gemma-4-31b-it) for clear, conversational insights
               </span>
             </div>
           </div>

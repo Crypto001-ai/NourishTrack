@@ -1162,7 +1162,7 @@ Instructions:
 4. Keep the tone encouraging, non-judgmental, and practical.`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.8-flash',
+      model: 'gemma-4-31b-it',
       contents: prompt,
     });
 
