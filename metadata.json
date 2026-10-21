@@ -1,0 +1,6 @@
+{
+  "name": "NourishTrack",
+  "description": "Eat. Track. Understand. Improve. Intelligent nutrition and wellness tracker with evidence-based insights, multi-food meal logging, and personalized health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
